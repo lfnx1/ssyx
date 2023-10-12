@@ -42,6 +42,6 @@ spring:
     time-zone: GMT+8
 aliyun:
   endpoint: oss-cn-guangzhou.aliyuncs.com
-  keyid: LTAI5tHXy9JjomAGJFLLqnkF
-  keysecret: XNjodabSpj5ImUqTQWRREXOKWWHdpF
+  keyid: rdqwedqwewqewqeqweqweqw
+  keysecret: eqwewqeqweqweqwewqe
   bucketname: ssyx-my
