@@ -1,0 +1,57 @@
+{
+  "groups": [
+    {
+      "name": "spring.redis",
+      "type": "com.my.ssyx.common.config.RedissonConfig",
+      "sourceType": "com.my.ssyx.common.config.RedissonConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.redis.a-d-d-r-e-s-s-p-r-e-f-i-x",
+      "type": "java.lang.String",
+      "sourceType": "com.my.ssyx.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.addresses",
+      "type": "java.lang.String",
+      "sourceType": "com.my.ssyx.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.connection-minimum-idle-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.my.ssyx.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.connection-pool-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.my.ssyx.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.my.ssyx.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "java.lang.String",
+      "sourceType": "com.my.ssyx.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.ping-connection-interval",
+      "type": "java.lang.Integer",
+      "sourceType": "com.my.ssyx.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.String",
+      "sourceType": "com.my.ssyx.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.my.ssyx.common.config.RedissonConfig"
+    }
+  ],
+  "hints": []
+}
